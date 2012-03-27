@@ -1,0 +1,1 @@
+ALTER TABLE  `1_products`     ADD COLUMN `meta_data` TEXT NULL AFTER `product_discription`,     ADD COLUMN `meta_keyword` TEXT NULL AFTER `meta_data`;
